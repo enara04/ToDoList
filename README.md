@@ -1,2 +1,2 @@
 # ToDoList
-Simple ToDoList
+Simple ToDoList using JQuery
